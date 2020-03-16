@@ -1,5 +1,6 @@
 # python
-```{.python .numberLines}
-	 for i in range(n):
-	    print(i) 
+```{.python}
+	 print("hello, world")
+         for i in range(10):
+         print(i)
 ```
